@@ -1,9 +1,0 @@
-#!/bin/bash
-cd homework/ 
-mkdir test_1 test_2 test_3 
-cd test_1/
-touch work_1.txt work_2.txt work_3.txt work_4.json work_5.json 
-mkdir test_4 test_5 test_6
-ls -la 
-mv C:/Users/Home/Desktop/group_27/homework/test_1/work_1.txt C:/Users/Home/Desktop/group_27/homework/test_2/work_1.txt 
-mv C:/Users/Home/Desktop/group_27/homework/test_1/work_2.txt C:/Users/Home/Desktop/group_27/homework/test_2/Work_2.txt 
